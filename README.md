@@ -2,7 +2,7 @@
 
 Submitted by: **Thu Nguyen**
 
-**Name of your app** is an app that... [TODO] 
+**Change background color** is an app that has a button to change background to a random color 
 
 Time spent: **1** hours spent in total
 
